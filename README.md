@@ -2,8 +2,7 @@
 
 F1ConnectX is your ultimate companion for Formula 1, designed for Android devices. Stay connected to the world of Formula 1 with our feature-rich app that provides race calendars, live points tables, and real-time data analytics. Join our global community of F1 fans and engage in data-driven discussions.
 
-![F1ConnectX Screenshot] https://mega.nz/file/hntDCQTJ#RvOilx_u-Ddm9t9yx1J6na3lJv_bIpu8iYr1SPhj_Mw
-
+![F1ConnectX Screenshot] https://mega.nz/folder/Z2cw0BCC#zu2jONv9LL34DQasGAmm2g
 ## Features
 
 - **Race Calendars:** Access up-to-date Formula 1 race calendars for the entire season.
@@ -30,14 +29,11 @@ We welcome contributions to improve F1ConnectX! If you'd like to contribute to o
 
 ## Issues and Bug Reports
 
-If you encounter any issues or want to report a bug, please open an issue on our [Issue Tracker](https://github.com/MXNOJBE/F1ConnectX/issues).
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-We would like to extend our thanks to the Formula 1 community for their support and the Ergast API team for providing access to essential Formula 1 data.
+We would like to extend our thanks to the Ergast API team for providing access to essential Formula 1 data.
 
-Happy Racing on Android!
