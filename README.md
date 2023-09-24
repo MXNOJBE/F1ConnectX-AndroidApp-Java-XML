@@ -23,12 +23,6 @@ To get started with F1ConnectX on your Android device, follow these steps:
 
 3. Launch the app and enjoy the world of Formula 1 at your fingertips.
 
-## Contributing
-
-We welcome contributions to improve F1ConnectX! If you'd like to contribute to our Android app, please follow our [Contributing Guidelines](CONTRIBUTING.md).
-
-## Issues and Bug Reports
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
