@@ -9,9 +9,7 @@ F1ConnectX is your ultimate companion for Formula 1, designed for Android device
 
 - **Live Points Tables:** Stay informed about driver standings and team rankings as they happen during the season.
 
-- **Real-time Data Analytics:** Dive deep into the world of F1 with our dynamic analytics section. Utilizing the Ergast API and Chaquopy for Python-based plotting, you can analyze live race data, explore race trends, and examine driver performance.
-
-- **Global Fan Community:** Connect with Formula 1 enthusiasts from around the globe. Share insights, engage in discussions, and be part of the passionate F1 community.
+- ** Data Analytics:** Dive deep into the world of F1 with our analytics section. Utilizing the Ergast API and Chaquopy for Python-based plotting, you can analyze live race data, explore race trends, and examine driver performance.
 
 ## Getting Started
 
