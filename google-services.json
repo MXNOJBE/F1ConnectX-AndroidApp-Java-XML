@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185035776854",
+    "project_id": "f1connectx",
+    "storage_bucket": "f1connectx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185035776854:android:eb512fdb6214cff31f6cf7",
+        "android_client_info": {
+          "package_name": "com.example.formula1app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185035776854-65nvs39i9up23unq9isq67h7uqsl3rng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVq9hhHc5g4WcI5WPmGaoiEbZ2_4cQVtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185035776854-65nvs39i9up23unq9isq67h7uqsl3rng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
