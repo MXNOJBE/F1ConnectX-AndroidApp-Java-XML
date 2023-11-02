@@ -3,8 +3,10 @@
 F1ConnectX is your ultimate companion for Formula 1, designed for Android devices. Stay connected to the world of Formula 1 with our feature-rich app that provides race calendars, live points tables, and real-time data analytics. Join our global community of F1 fans and engage in data-driven discussions.
 
 ## Screenshoots
-![1](https://github.com/MXNOJBE/F1ConnectX_Android/assets/71591667/859fe0da-b968-4ee3-96d8-41099a0d5414)
+![1](https://github.com/MXNOJBE/F1ConnectX_AndroidApp/assets/71591667/e6f576a4-be38-4fc9-b060-c943d7c3baa8)
 ![2](https://github.com/MXNOJBE/F1ConnectX_AndroidApp/assets/71591667/6a964672-aceb-4c08-89e8-ad6b1d913045)
+
+
 ![3](https://github.com/MXNOJBE/F1ConnectX_AndroidApp/assets/71591667/7abc1f1e-0594-4efd-977d-a82240c2c380)
 ![4](https://github.com/MXNOJBE/F1ConnectX_AndroidApp/assets/71591667/cf88799e-c1f0-4737-9237-3633671aae47)
 
