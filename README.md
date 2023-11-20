@@ -21,7 +21,7 @@ F1ConnectX is your ultimate companion for Formula 1, designed for Android device
 
 To get started with F1ConnectX on your Android device, follow these steps:
 
-1. Download the APK file from (https://mega.nz/file/hntDCQTJ#RvOilx_u-Ddm9t9yx1J6na3lJv_bIpu8iYr1SPhj_Mw)
+1. Download the APK file from (https://mega.nz/file/hntDCQTJ#RvOilx_u-Ddm9t9yx1J6na3lJv_bIpu8iYr1SPhj_Mw) or from here : https://github.com/MXNOJBE/F1ConnectX_AndroidApp/releases/download/beta/F1_ConnectX.apk
 
 2. Install the APK on your Android device.
 
