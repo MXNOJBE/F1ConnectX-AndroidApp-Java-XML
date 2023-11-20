@@ -13,15 +13,21 @@ F1ConnectX is your ultimate companion for Formula 1, designed for Android device
 
 
 
-- **Live Points Tables:** Stay informed about driver standings and team rankings as they happen during the season.
+- Live Points Tables:Stay informed about driver standings and team rankings as they happen during the season.
 
-- ** Data Analytics:** Dive deep into the world of F1 with our analytics section. Utilizing the Ergast API and Chaquopy for Python-based plotting, you can analyze live race data, explore race trends, and examine driver performance.
+- Data Analytics: Dive deep into the world of F1 with our analytics section. Utilizing the Ergast API and Chaquopy for Python-based plotting, you can analyze live race data, explore race trends, and examine driver performance.
 
 ## Getting Started
 
 To get started with F1ConnectX on your Android device, follow these steps:
 
-1. Download the APK file from (https://mega.nz/file/hntDCQTJ#RvOilx_u-Ddm9t9yx1J6na3lJv_bIpu8iYr1SPhj_Mw) or from here : https://github.com/MXNOJBE/F1ConnectX_AndroidApp/releases/download/beta/F1_ConnectX.apk
+1. Download the APK file from
+ or from here:
+Mega:  https://mega.nz/file/Y6cXXYRB#j6e1OzlFZPyGMBftn2ytfjMwnwUm7kgEe2jYhE3Kn9A
+
+or
+
+Github: https://github.com/MXNOJBE/F1ConnectX_AndroidApp/releases/download/beta/F1_ConnectX.apk
 
 2. Install the APK on your Android device.
 
