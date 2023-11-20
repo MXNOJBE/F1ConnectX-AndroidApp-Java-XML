@@ -27,6 +27,8 @@ To get started with F1ConnectX on your Android device, follow these steps:
 
 3. Launch the app and enjoy the world of Formula 1 at your fingertips.
 
+## Due to storage issues, I'm not able to upload whole project here, But reach me out at manojbe2000@gmail.com for it.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
